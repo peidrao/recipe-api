@@ -210,16 +210,3 @@ class PrivateRecipeApiTest(TestCase):
 
         tags = recipe.tags.all()
         self.assertEqual(len(tags), 0)
-\,
-
-
-
-
-
-
-
-
-
-
-
-ç///////////////////////////////////////////////////////
